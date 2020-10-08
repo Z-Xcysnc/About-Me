@@ -1,3 +1,4 @@
+
 ## 假装自己有Supporter
 
 Hi,There! 这里是Z-Xcysnc 也是SignZ 在校的~~神必~~学生党
@@ -25,6 +26,8 @@ OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）
 Arcaea:~~永远登不上的账号以至于忘记ID~~
 
 附bilibili:[Z-Xcysnc](https://space.bilibili.com/178555126?from=search&seid=6522109150022689042)
+
+QQ2282983971
 
 玩音游没多久，又菜又爱玩
 
@@ -122,4 +125,3 @@ Yumo
 ##### OSU!
 
 等待补充....
-
