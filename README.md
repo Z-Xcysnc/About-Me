@@ -1,3 +1,3 @@
 # About-Me
-Something Need Complain....
-Click To Open Next [Readme](m.md)
+
+[Click plz](m.md)
