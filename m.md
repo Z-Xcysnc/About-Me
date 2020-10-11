@@ -120,7 +120,11 @@ Yumo
 
 ##### Malody
 
-忘了全忘了.sai2
+2020年10月11日Catch进入#1000
+
+![image](Screenshot_20201011-144019.jpg)picture
+
+等待补充
 
 ##### OSU!
 
