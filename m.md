@@ -122,7 +122,9 @@ Yumo
 
 2020年10月11日Catch进入#1000
 
-![image](Screenshot_20201011-144019.jpg)picture
+![image](Screenshot_20201011-144019.jpg)
+
+---
 
 等待补充
 
