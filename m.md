@@ -83,24 +83,43 @@ STD目前都是跨级打歌 所以升排名什么的.......梦里就升了挺多
 |  耳机  |      SNOY MH750      |
 |  键盘  |       笔电自带       |
 | 显示屏 | 笔电自带+SGOCO SWM19 |
+| 分辨率 |  1920x1080+1440x900  |
 | 数位板 |    找个时间买一个    |
 
 **鼠标不可更改DPI**
 
 游戏内灵敏度
 
-|  OSU!  | Raw Input+2.2x |
-| :----: | :------------: |
-| Malody |   Mania(0-5)   |
-| Arcaea |       1x       |
+|      OSU!      | Raw Input+2.2x |
+| :------------: | :------------: |
+| Malody音符移速 |   Mania(0-5)   |
+| Arcaea音符移速 |       1x       |
 
 ---
 
 #### 敬仰的玩家（大神
 
+~~BanchoBot~~
+
+13roil
+
+A r M i N
+
+Aisuru-san
+
+A M D
+
+Future_HX
+
+Kagaku
+
 Taichenko_oni
 
+Gmanuel
+
 TZJ01
+
+Sotarks
 
 Ds_xwx
 
@@ -112,7 +131,9 @@ Cookiezi
 
 Yumo
 
-(不算是很久的音游人 认识的也不是很多 ~~不认识的更多~~)
+woweide1432
+
+**没有排名的意思**(不算是很久的音游人 认识的也不是很多 ~~不认识的更多~~)
 
 ---
 
@@ -130,7 +151,7 @@ Yumo
 
 ##### OSU!
 
-2020-10-16 21:26:35 达成1kpp(这也是仅次于开学前一天刷的最多的pp)
+2020-10-16 21:26:35 达成1kpp
 
 ![image](1kpp.png)
 
