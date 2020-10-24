@@ -1,6 +1,14 @@
 
 ## 假装自己有Supporter
 
+---
+
+入Team了 希望人没事
+
+![image](Team.JPG)
+
+---
+
 Hi,There! 这里是Z-Xcysnc 也是SignZ 在校的~~神必~~学生党
 
 ~~因为自己没有Supporter想要实现类似的功能只能拿Github Page写MD~~
