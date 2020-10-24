@@ -23,7 +23,7 @@ Malody:[SignX](http://m.mugzone.net/accounts/user/225816)
 
 OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）
 
-Arcaea:~~永远登不上的账号以至于忘记ID~~
+Arcaea:ZXcysnc(962600499)
 
 附bilibili:[Z-Xcysnc](https://space.bilibili.com/178555126?from=search&seid=6522109150022689042)
 
