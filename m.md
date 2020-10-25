@@ -29,9 +29,11 @@ Tips:点击蓝色字体跳转到对于主页
 
 Malody:[SignX](http://m.mugzone.net/accounts/user/225816)
 
-OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）
+OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）(链接只提供国际服)
 
 Arcaea:ZXcysnc(962600499)
+
+Project FX:ZXcysnc
 
 附bilibili:[Z-Xcysnc](https://space.bilibili.com/178555126?from=search&seid=6522109150022689042)
 
@@ -45,7 +47,7 @@ QQ2282983971
 
 ---
 
-#### 关于Malody
+#### Malody
 
 很菜 真的很蔡 ~~蔡到只能防止丢脸离线打歌~~
 
@@ -63,11 +65,9 @@ QQ2282983971
 
 只打Mania和Catch 别的模式也会摸一摸 但不是很擅长
 
-常用MOD:None
-
 ---
 
-#### 关于OSU!
+#### OSU!
 
 刚入没多久（迫真 
 
@@ -79,7 +79,29 @@ STD目前都是跨级打歌 所以升排名什么的.......梦里就升了挺多
 
 也不能算是很擅长打STD 但老被别人说很厉害(?)
 
-常用MOD:HR,HD
+---
+
+#### Arcaea
+
+看到b站有别的音游视频 发现很好玩的样子就去下载了
+
+~~没想到难的根本打不好~~
+
+几天前开的账号（指2020-10-24） 也没打多少谱子
+
+说不定也会成为放墙角吃灰的音游呢（bushi
+
+---
+
+#### Project FX
+
+是个无轨式音游 被同学推来玩
+
+发现还是针不戳的 但是打久了就没法直视Malody里的无轨了
+
+感觉会有小小的形变（？
+
+不管怎么说 还是挺好玩的
 
 ---
 
@@ -98,12 +120,24 @@ STD目前都是跨级打歌 所以升排名什么的.......梦里就升了挺多
 
 **鼠标不可更改DPI**
 
-游戏内灵敏度
+---
 
-|      OSU!      | Raw Input+2.2x |
+游戏内微调
+
+|   OSU!Input    | Raw Input+2.2x |
 | :------------: | :------------: |
 | Malody音符移速 |   Mania(0-5)   |
-| Arcaea音符移速 |       1x       |
+| Arcaea音符移速 |      1.2x      |
+|   Project FX   |    Orginal     |
+
+---
+
+能玩的极限+常用Mod
+
+|    OSU     |                       4-6星（低Acc                        | HRHD  |
+| :--------: | :-------------------------------------------------------: | :---: |
+|   Malody   | Mania(20);CTB(27);Slide(10);Taiko(5);Ring(5);DanceCube(3) |  HD   |
+| Project FX |                          Unknown                          | NoMod |
 
 ---
 
@@ -166,3 +200,16 @@ woweide1432
 ![image](1kpp.png)
 
 等待补充....
+
+---
+
+#### 其他游戏
+
+当然我也会玩些别的游戏的 不过这里只写出最近在玩的 但不包含音游
+
+毕竟学校也不是只有音游人 ~~还有电竞人~~
+
+| 明日方舟-Bilibili | 明日方舟-Taptap | 原神官服 | 公主焊接 |
+| :---------------: | :-------------: | :------: | :------: |
+|     Minecraft     |       FGO       |          |          |
+
