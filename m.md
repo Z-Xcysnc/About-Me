@@ -9,7 +9,7 @@
 
 ---
 
-Hi,There! 这里是Z-Xcysnc 也是SignZ 在校的~~神必~~学生党
+Hi,There! 这里是Z-Xcysnc 也是SakuraR,SignZ在校的~~神必~~学生党
 
 ~~因为自己没有Supporter想要实现类似的功能只能拿Github Page写MD~~
 
@@ -30,6 +30,10 @@ Tips:点击蓝色字体跳转到对于主页
 Malody:[SignX](http://m.mugzone.net/accounts/user/225816)
 
 OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）(链接只提供国际服)
+
+之后要改ID了 也只是OSU 先放在这里
+
+OSU UDE:SakuraR
 
 Arcaea:ZXcysnc(962600499)
 
@@ -65,6 +69,8 @@ QQ2282983971
 
 只打Mania和Catch 别的模式也会摸一摸 但不是很擅长
 
+因为现在在学校没有稳定流量了选择去当Mapper ~~但是都没有发布过甚至上传~~
+
 ---
 
 #### OSU!
@@ -79,9 +85,9 @@ STD目前都是跨级打歌 所以升排名什么的.......梦里就升了挺多
 
 也不能算是很擅长打STD 但老被别人说很厉害(?)
 
-在入2kpp前每天回家都会光速飞升 大约一天100pp 刷多了第二天就会少打点（
-
 ~~挂是不可能开的 这辈子都不可能开的 只能靠乱甩维持pp这样子~~
+
+现在到了2kpp准备每天小打一点 顺便转一下注意力 等到寒假时再去练一练 ~~温度 阻挡不住我的速度（bushi~~
 
 ---
 
@@ -113,22 +119,34 @@ STD目前都是跨级打歌 所以升排名什么的.......梦里就升了挺多
 
 配置
 
-|  电脑  | 联想小新潮7000-14ARR |
-| :----: | :------------------: |
-|  鼠标  |    联想 M-U0025O     |
-|  耳机  |      SNOY MH750      |
-|  键盘  |       笔电自带       |
-| 显示屏 | 笔电自带+SGOCO SWM19 |
-| 分辨率 |  1920x1080+1440x900  |
-| 数位板 |    Wacom CTL-472     |
+|  电脑  | 联想小新潮7000-14ARR(R5 2500U+8G) |
+| :----: | :-------------------------------: |
+|  鼠标  |           联想 M-U0025O           |
+|  耳机  |            SNOY MH750             |
+|  键盘  |             笔电自带              |
+| 显示屏 |       笔电自带+SGOCO SWM19        |
+| 分辨率 |        1920x1080+1440x900         |
+| 数位板 |           Wacom CTL-472           |
 
 **鼠标不可更改DPI**
+
+~~我可买不起小夜的外设 以后能买一定会去支持一下的~~
 
 ---
 
 #### 数位板映射
 
 ![?](MapSet.png)
+
+之前忘记写坐标了 现在就补上
+
+
+
+| 6990  | 9500  |
+| :---: | :---: |
+| 11400 | 15200 |
+
+开启了比例一定 所以与这里输入的会有差别
 
 ---
 
@@ -142,52 +160,24 @@ Tips:这里的OSU输入是鼠标输入 数位板输入时Input为1x无Raw Input
 | Arcaea音符移速 |      1.2x      |
 |   Project FX   |    Orginal     |
 
+~~8过都有的数位板之前用鼠标的记忆全部都Lost了~~
+
 ---
 
 能玩的极限+常用Mod
 
-|    OSU     |                       4-6星（低Acc                        | HRHD  |
-| :--------: | :-------------------------------------------------------: | :---: |
-|   Malody   | Mania(20);CTB(27);Slide(10);Taiko(5);Ring(5);DanceCube(3) |  HD   |
-| Project FX |                          Unknown                          | NoMod |
+|    OSU     |                            ？                             | HRHDDT |
+| :--------: | :-------------------------------------------------------: | :----: |
+|   Malody   | Mania(20);CTB(27);Slide(10);Taiko(5);Ring(5);DanceCube(3) |   HD   |
+| Project FX |                             ?                             | NoMod  |
 
 ---
 
 #### 敬仰的玩家（大神
 
-~~BanchoBot~~
+~~可以开启Search找找你在不在里面（bushi~~
 
-13roil
-
-A r M i N
-
-Aisuru-san
-
-A M D
-
-Future_HX
-
-Kagaku
-
-Taichenko_oni
-
-Gmanuel
-
-TZJ01
-
-Sotarks
-
-Ds_xwx
-
-Whitecat
-
-hvick226
-
-Cookiezi
-
-Yumo
-
-woweide1432
+~~BanchoBot~~,13roil,A r M i N,Aisuru-san,A M D,Future_HX,Kagaku,Taichenko_oni,Gmanuel,TZJ01,Sotarks,Ds_xwx,Whitecat,hvick226,Cookiezi,Yumo,woweide1432,moonhg
 
 **没有排名的意思**(不算是很久的音游人 认识的也不是很多 ~~不认识的更多~~)
 
@@ -211,6 +201,10 @@ woweide1432
 
 ![image](1kpp.png)
 
+2020-10-16 16:08 达成2kpp(好累啊)
+
+![image](2kpp_complete.png)
+
 等待补充....
 
 ---
@@ -221,7 +215,4 @@ woweide1432
 
 毕竟学校也不是只有音游人 ~~还有电竞人~~
 
-| 明日方舟-Bilibili | 明日方舟-Taptap | 原神官服 | 碧蓝航线 |
-| :---------------: | :-------------: | :------: | :------: |
-|     Minecraft     |                 |          |          |
-
+要是你玩的游戏我没有在玩 也可以安利给我 ~~只要我手机还有空间 **下 都可以下**~~
