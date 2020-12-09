@@ -35,6 +35,8 @@ OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）(�
 
 OSU UDE:SakuraR
 
+OSU Performance Point Plus:[Sign_Z](http://syrin.me/pp+/u/16233691)  ~~希望pp+别再炸了~~
+
 Arcaea:ZXcysnc(962600499)
 
 Project FX:ZXcysnc
@@ -88,6 +90,10 @@ STD目前都是跨级打歌 所以升排名什么的.......梦里就升了挺多
 ~~挂是不可能开的 这辈子都不可能开的 只能靠乱甩维持pp这样子~~
 
 现在到了2kpp准备每天小打一点 顺便转一下注意力 等到寒假时再去练一练 ~~温度 阻挡不住我的速度（bushi~~
+
+现在更喜欢打跳图 ~~跳来跳去真是太好玩辣~~ 打多了Aim就有点虚
+
+Acc和Stam都很低 ~~也许我本来就不适合~~
 
 ---
 
