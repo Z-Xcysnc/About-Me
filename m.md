@@ -29,7 +29,7 @@ Tips:点击蓝色字体跳转到对于主页
 
 Malody:[SignX](http://m.mugzone.net/accounts/user/225816)
 
-OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）(链接只提供国际服)
+OSU(Bancho):[-[SakuraR]-](http://osu.ppy.sh/users/16233691)
 
 之后要改ID了 也只是OSU 先放在这里
 
