@@ -35,13 +35,13 @@ OSU(Bancho,Akatsuki):[Sign_Z](http://osu.ppy.sh/users/16233691)（相同ID）(�
 
 OSU UDE:SakuraR
 
-OSU Performance Point Plus:[Sign_Z](http://syrin.me/pp+/u/16233691)  ~~希望pp+别再炸了~~
+OSU Performance Point Plus:[-[SakuraR]-](http://syrin.me/pp+/u/16233691)  ~~希望pp+别再炸了~~
 
 Arcaea:ZXcysnc(962600499)
 
 Project FX:ZXcysnc
 
-附bilibili:[Z-Xcysnc](https://space.bilibili.com/178555126?from=search&seid=6522109150022689042)
+附bilibili:[SakuraR](https://space.bilibili.com/178555126?from=search&seid=6522109150022689042)
 
 QQ2282983971
 
